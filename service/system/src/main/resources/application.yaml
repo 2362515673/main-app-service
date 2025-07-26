@@ -2,7 +2,3 @@ server:
   port: 8101
   servlet:
     context-path: /api
-
-spring:
-  application:
-    name: system-service

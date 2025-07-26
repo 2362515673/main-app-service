@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89ecb12c-d017-4db3-bf1e-1e24978002fa" name="更改" comment="网关">
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/system/src/main/resources/bootstrap.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/liun/gateway/GatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/liun/gateway/GatewayApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/system/src/main/java/com/liun/system/SystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/src/main/java/com/liun/system/SystemApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/system/src/main/java/com/liun/system/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/src/main/java/com/liun/system/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/system/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/service/system/src/main/resources/application.yaml" afterDir="false" />
     </list>
@@ -35,9 +41,18 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/2362515673/main-app-service.git&quot;,
-    &quot;accountId&quot;: &quot;1fcac68e-b03c-448c-938f-b025106e6aed&quot;
+    &quot;accountId&quot;: &quot;b8cb04b2-e0dc-43b8-aa0d-bed0676fa8b7&quot;
   }
 }</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\EnvironmentVariable\apache-maven-3.8.8" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="E:\EnvironmentVariable\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -55,22 +70,31 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.GatewayApplication.executor": "Run",
-    "Spring Boot.SystemApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Debug",
+    "Spring Boot.SystemApplication.executor": "Debug",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/y/back/main-app-service",
+    "last_opened_file_path": "D:/Desktop/code/Project/main-app/main-app-service/service/system/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/DELL/Desktop/y/main-app-service/gateway/src/main/java/com/liun/gateway/Main.java",
-    "project.structure.last.edited": "问题",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.24707031",
     "project.structure.side.proportion": "0.36671",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\code\Project\main-app\main-app-service\service\system\src\main\resources" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -107,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SystemApplication" />
         <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.SystemApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +157,8 @@
       <workItem from="1753421819340" duration="212000" />
       <workItem from="1753422459215" duration="295000" />
       <workItem from="1753423135726" duration="1404000" />
+      <workItem from="1753542831917" duration="41000" />
+      <workItem from="1753542887491" duration="1849000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore">
       <option name="closed" value="true" />
